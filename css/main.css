@@ -91,3 +91,10 @@ header .container{
 .main-cover .container{
     width: 70%;
 }
+
+/*CAROUSEL*/
+.box-series{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
