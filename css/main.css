@@ -83,3 +83,11 @@ header .container{
 .button i{
     margin-right: 5px;
 }
+
+.container{
+    margin-left: 20px;
+}
+
+.main-cover .container{
+    width: 70%;
+}
